@@ -1,0 +1,2 @@
+# DAS-Autism-A-Java-based-rule-based-expert-system-for-autism-diagnosis-support
+DAS-Autism is a Java-based expert system designed to support autism diagnosis using multi-valued logic, linguistic modifiers, and approximate reasoning. It employs a knowledge base of diagnostic symptoms and rules to assess symptom intensity and autism severity, providing explainable results through a graphical user interface.
