@@ -47,7 +47,9 @@ The experimental results reported in the original publication include:
 - 11 true negatives.
 - 0 false positives.
 - 0 false negatives.
-- 85% exact agreement in severity assessment.
+- Correct severity degree 34.
+- Incorrect severity degree 6 (gap = 1 degree)
+- 93% exact agreement in severity assessment.
 
 These results are specific to the experimental dataset and evaluation protocol described in the publication. They should not be interpreted as evidence of general clinical validity.
 
