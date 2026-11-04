@@ -61,17 +61,15 @@ These results are specific to the experimental dataset and evaluation protocol d
 - **Knowledge representation:** Diagnostic rules and linguistic modifiers
 - **Interface:** Java graphical user interface
 
-## Scientific Publication
+## Scientific Publications
 
-This software is described in the following scientific publication:
+DAS-Autism was developed as part of doctoral research and has been presented in the following scientific publications:
 
-**DAS-Autism: A Rule-Based System to Diagnose Autism Within Multi-valued Logic.**
+1. Bel Hadj Kacem, S., Borgi, A., Othman, S. (2021). DAS-Autism: A Rule-Based System to Diagnose Autism Within Multi-valued Logic. In: Idoudi, H., Val, T. (eds) Smart Systems for E-Health. Advanced Information and Knowledge Processing. Springer, Cham (pp. 183-200). https://doi.org/10.1007/978-3-030-14939-0_8
 
-Published in *Smart Systems for E-Health*, Springer, 2021.
+2. Bel Hadj Kacem, S., Borgi, A., Othman, S. (2016). A diagnosis aid system of autism in a multi-valued framework. In Uncertainty Modelling in Knowledge Engineering and Decision Making: Proceedings of the 12th International FLINS Conference (pp. 405-410). https://doi.org/10.1142/9789813146976_0066
 
-[Insert the official Springer chapter link or DOI here.]
-
-Please cite the original publication when using or referring to this software.
+Please cite the relevant publication when using or referring to this software.
 
 ## Intended Use and Disclaimer
 
